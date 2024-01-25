@@ -1,0 +1,6 @@
+head{
+    --background: linear-gradient(135deg, #a00a499d 0%, #764ba298 100%);
+    --color-primary:#a00a49;
+    --color-secondary:#764ba2;
+    --boton-padding: 20px 40px;
+}

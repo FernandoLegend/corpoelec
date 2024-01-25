@@ -1,0 +1,8 @@
+.bodyy{
+    background-color: red;
+    text-align: center;
+    object-position: 50%;
+}
+:root{
+    background-image: url(./../assets/enhanced-image.png);
+}

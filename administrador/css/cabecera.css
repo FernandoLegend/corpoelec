@@ -1,0 +1,65 @@
+/* *{
+    font-family: 'Lora', serif;
+}
+*/
+a{
+    bottom: 50%;
+}
+b{
+    color: white;
+}
+.nav-item{
+    margin-left: 10px;
+    display:inline-block;
+}
+.izq{
+    
+    margin-right: 18px;
+    display:inline-block;
+}
+p{
+    color: rgb(255, 255, 255);
+}
+.botontema{
+    color: black;
+    top: 50%;
+    bottom: 50%;
+    height: 40px;
+    display: flex
+    
+}
+/*.navegacion{
+    border-right: 3px solid #000;
+    text-align: center;
+    
+}*/
+
+.imagen{
+    float: right;
+    margin-right: 18px;
+    
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.navegacion{
+    top: 50%;
+}
+
+
+select {
+    background-image: url(./../down.webp); /*aquí deberás escribir la ruta de la imagen que utilizarás como flecha del desplegable*/
+    background-repeat: no-repeat;
+    background-position: right center;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    }
+    
+    select::-ms-expand {
+    display: none; /*Evita que se muestre la flecha por defecto en versiones de IE*/
+    }

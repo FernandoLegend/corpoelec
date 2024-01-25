@@ -1,0 +1,54 @@
+.form-group{
+    margin-top: 20px;
+    display: inline-block;
+    margin-right: 50px;
+
+}
+.esp{
+    display: inline-block;
+}
+.botoncolor{
+    background-color: blue;
+}
+.card{
+    margin-top: 30px;
+}
+.card-body{
+    margin: 0px;
+}
+
+.card-header{
+    /*background-color: rgb(137, 43, 226);*/
+    background-color: rgb(0, 116, 0);
+    color: white;
+}
+.btn-group{
+    margin-top: 45px;
+    float: right;
+}
+
+.padre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.compartirs{
+    display: inline-block;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-bottom: 2%;
+}
+
+.compartirs1{
+    display: inline-block;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-bottom: 0%;
+}
+
+.lado{
+    margin-left: 3%;
+}

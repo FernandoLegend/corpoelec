@@ -1,0 +1,76 @@
+.card{
+    margin-top: 23px;
+
+}
+
+.nuevo{
+    margin-top: 10px;
+    
+}
+.ancho{
+    max-width: 100px;
+    text-align: center;
+}
+/* 
+p{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    float: right;
+} */
+td{
+    text-align: center;
+    font-size: 120%;
+}
+th{
+    text-align: center;
+    color: white;
+}
+
+.botonb{
+    color: rgb(205, 0, 0);
+    font-weight: bold;
+}
+.botona{
+    color: rgb(108, 108, 175);
+    font-weight: bold;
+}
+.botonc{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: 400;
+}
+.compartirs{
+    display: inline-block;
+}
+
+.compartirs2{
+    display: inline-block;
+    margin-right: 0px; 
+    margin-left: 0px;
+}
+
+thead{
+    border-style: solid;
+    border-radius: 10px;
+    background: rgb(0, 116, 0);
+    border-color: rgb(0, 116, 0);
+}
+.nuevo{
+    float: right;
+}
+h3{
+    margin-left: 40px;
+    
+    
+    margin: 0px;
+    padding: 0px;
+}
+.tamañofuente{
+    font-size: 90%;
+}
+/*.radio{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(53, 53, 53);
+    
+}*/

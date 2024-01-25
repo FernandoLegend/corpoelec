@@ -1,0 +1,16 @@
+.head {
+    background: black;
+  }
+  :root{
+    
+    --botom-padding: 0px 0px;
+
+}
+.h1{
+    font-size: 10;
+  }
+
+.simple-linear {
+    background: linear-gradient(blue, pink);
+}
+  
